@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Getting Started
+This is a basic Flutter quiz app designed to test users' and its basic questions. The app presents a series of true/false questions, and users respond by selecting either "True" or "False." After answering all the questions, the user is taken to a result screen that displays the total correct and incorrect answers.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+features
+A results page that shows the number of correct answers, incorrect answers, and total marks. Ability to retake the quiz after viewing the results.
